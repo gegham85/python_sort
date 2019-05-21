@@ -1,5 +1,5 @@
 Sort Collection
---------
+---------------
 
 To use (with caution), simply do::
 

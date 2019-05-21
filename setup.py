@@ -9,7 +9,7 @@ setup(
     version='0.1',
     description='This is a package with different sorting algorithms',
     long_description=readme(),
-    url='',
+    url='https://github.com/gegham85/python_sort',
     author='Gegham Movses',
     author_email='gegham.movses@gmail.com',
     license='MIT',

@@ -1,4 +1,4 @@
-from quicksort import sort as quicksort
+from .quicksort import sort as quicksort
 
 def sort(unsorted):
     return quicksort(unsorted)

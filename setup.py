@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name='sortcollection',
-    version='0.1',
+    version='0.2',
     description='This is a package with different sorting algorithms',
     long_description=readme(),
     url='https://github.com/gegham85/python_sort',
